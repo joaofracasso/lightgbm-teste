@@ -1,0 +1,2 @@
+lightgbm==4.1.0 \
+    --hash=sha256:47578cff4bc8116b62adc02437bf2b49dcc7ad4e8e3dd8dad3fe88e694d74d93

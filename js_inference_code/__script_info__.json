@@ -1,0 +1,8 @@
+{
+    "FileName": "__script_info__.json",
+    "Framework": "lightgbm",
+    "ModelId": "none",
+    "Scope": "inference",
+    "Task": "classification",
+    "Version": "1.2.2"
+}
